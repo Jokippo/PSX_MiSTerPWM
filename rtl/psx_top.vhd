@@ -1403,7 +1403,7 @@ begin
       pauseOnCDSlow        => pauseOnCDSlow,
       LIDopen              => LIDopen,
       region               => region,
-      region_out           => region_out,
+      region_out           => region_out,	  
       
       pauseCD              => pauseCD,
       Pause_idle_cd        => Pause_idle_cd,
